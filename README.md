@@ -32,7 +32,7 @@ This project employs the ResNeXt deep learning architecture to detect corn disea
    - Trained for 30 epochs with real-time validation monitoring.
 
 4. **Evaluation**:
-   - Test accuracy: **95.15%** (update with actual value).
+   - Test accuracy: **95.15%**.
    - Confusion matrix and classification report for performance analysis.
 
 ## Dependencies
