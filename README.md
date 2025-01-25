@@ -1,4 +1,4 @@
-# Corn Diseases Detection Using ResNeXt Model
+# Corn Leafs Diseases Detection Using ResNeXt Model
 
 ## Overview
 This project employs the ResNeXt deep learning architecture to detect corn diseases with high accuracy. The model leverages grouped convolutions for efficient feature learning, achieving robust performance on a curated dataset of corn images.
